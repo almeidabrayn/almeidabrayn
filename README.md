@@ -1,4 +1,4 @@
-# 👽 Bryan de Almeida
+#  Bryan de Almeida
 **Seja bem-vindo ao meu perfil!**
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
