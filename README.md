@@ -2,7 +2,13 @@
 **Seja bem-vindo ao meu perfil!**
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
-Oi, eu sou o Eliseu, um estudante apaixonado por **tecnologia, neurociência e economia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
+Oi, eu sou o Bryan, um estudante apaixonado por **tecnologia, inteligência artificial, computação quântica e neurociência**. Acredito que, ao combinar esses conhecimentos, a convergência dessas áreas pode a dois grandes saltos a humanidade, sendo eles:
+
+1 - Seja possível criação de uma inteligência artificial que atinja a singularidade, amplificando nosso potêncial em diversas áreas.
+2 - Seja possível achar tratamentos inovadores para disfunções neurológicas, unindo a mente e a máquina.
+
+Um lugar onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas, meu objetivo é ir além e criar uma inteligência artificial que atinja a singularidade.
+
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanalmeida-ofc/)
@@ -12,13 +18,11 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
 
@@ -26,8 +30,4 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 ## 📊 Estatísticas
 | ![Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=almeidabrayn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidabrayn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
-
-
-## 🐍 Snake Game
-![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
 
