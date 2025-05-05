@@ -1,6 +1,6 @@
-#  Bryan de Almeida
+# 👾 Bryan de Almeida
 **Seja bem-vindo ao meu perfil!**
-> "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
+> "The real danger is not that computers will begin to think like men, but that men will begin to think like computers." – Sydney Harris 🎩🪄
 
 Oi, eu sou o Bryan, um estudante apaixonado por **tecnologia, inteligência artificial, computação quântica e neurociência**. Acredito que, ao combinar esses conhecimentos, a convergência dessas áreas pode a dois grandes saltos a humanidade, sendo eles:
 
